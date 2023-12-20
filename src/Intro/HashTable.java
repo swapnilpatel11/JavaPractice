@@ -13,10 +13,10 @@ public class HashTable {
 		h.put("C", "World");
 		
 		System.out.println(h.size());
-		
+		System.out.println(h);
 		h.put(1, 100);
 		h.put(2, 200);
-		
+		System.out.println(h);
 		System.out.println(h.size());
 		
 		System.out.println(h.get(2));

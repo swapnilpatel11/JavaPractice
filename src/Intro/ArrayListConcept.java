@@ -39,6 +39,7 @@ public class ArrayListConcept {
 		ArrayList<String> ar2 = new ArrayList<String>();
 		ar2.add("Hi");
 		
+		System.out.println(ar1);
 		
 
 	}
